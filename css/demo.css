@@ -570,6 +570,11 @@ textarea {
     padding : 0;
 }
 
+.center {
+    text-align: center;
+    display: inline-block;
+}
+
 /* row utility classes
  */
 .row.row-wrap {
