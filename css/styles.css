@@ -1220,6 +1220,10 @@ textarea {
     float : right;
 }
 
+.center {
+    text-align: center;
+    display: inline-block;
+}
 
 /* ===================================================================
  * # TYPOGRAPHY 
